@@ -1,0 +1,23 @@
+# idea project files and folder #
+*.iml
+*.ipr
+*.iws
+.idea/
+/out/
+
+# OSX dot files #
+
+.DS_Store
+
+# Package Files #
+
+*.class
+*.war
+*.jar
+
+# Maven
+target/
+**/target/
+**/.settings/
+**/*.project
+**/*.classpath
